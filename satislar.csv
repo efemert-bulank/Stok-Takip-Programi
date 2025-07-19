@@ -1,0 +1,7 @@
+islem_no,tarih,odeme_sekli,satisi_yapan,musteri_adi,musteri_telefonu,urunler,toplam_tutar,toplam_kar,satis_id,indirim_miktari,odeme_yontemi,satıcı,telefon_no,indirim_miktari_tl,musteri_id
+,2025-07-13 00:00:00.000000,,,,,"{""2588560191517"": {""urun_adi"": ""1"", ""alis_fiyati"": 1.0, ""satis_fiyati"": 1111.0, ""miktar"": 1}}",1111.0,1110.0,2.0,0.0,Nakit,Ahmet,,,
+,2025-07-13 21:11:12.915371,,,,,"{""2588560191517"": {""urun_adi"": ""1"", ""alis_fiyati"": 1.0, ""satis_fiyati"": 1111.0, ""miktar"": 1}}",1111.0,1110.0,1.0,,Nakit,Ahmet,,111.0,
+,2025-07-13 21:12:34.635443,,,,,"{""2588560191516"": {""urun_adi"": ""rench kot"", ""alis_fiyati"": 300.0, ""satis_fiyati"": 949.0, ""miktar"": 1}}",949.0,649.0,3.0,,Nakit,Ahmet,,0.0,
+,2025-07-13 21:14:16.749140,,,,,"{""2588560191515"": {""urun_adi"": ""MARKOVA PARFUM"", ""alis_fiyati"": 0.0, ""satis_fiyati"": 500.0, ""miktar"": 2}}",1000.0,1000.0,4.0,,Borç,Ahmet,,0.0,
+,2025-07-13 22:08:20.939094,,,,,"{""2588560191516"": {""urun_adi"": ""rench kot"", ""alis_fiyati"": 300.0, ""satis_fiyati"": 949.0, ""miktar"": 1, ""ozellikler"": NaN}}",949.0,649.0,5.0,,Nakit,Ahmet,,49.0,
+,2025-07-19 18:07:22.718426,,,,,"{""2588560191516"": {""urun_adi"": ""rench kot"", ""alis_fiyati"": 300.0, ""satis_fiyati"": 949.0, ""miktar"": 1, ""ozellikler"": NaN}}",949.0,649.0,6.0,,Nakit,Ahmet,,0.0,
